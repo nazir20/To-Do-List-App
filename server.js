@@ -1,5 +1,4 @@
 /*
-    @author: Mohammad Nazir Sharifi --nazirsharifi19@gmail.com
     @To_Do_List_App
     @ this app is made by using:
     HTML * CSS * Bootstrap * JavaScript * Node.js & Express.js * Ejs
